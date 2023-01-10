@@ -12,6 +12,7 @@ class testcase {
 		int ab = c.countA("QaimAhmed");
 		//assertEquals(2,ab);
 		assertEquals(3,ab);
+	system.out.println("MAAZ, here")
 	}
 
 }
